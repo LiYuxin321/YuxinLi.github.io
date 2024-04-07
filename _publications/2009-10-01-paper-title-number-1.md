@@ -2,10 +2,8 @@
 title: "Transformer-Modulated Diffusion Models for Probabilistic Multivariate Time Series Forecasting"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'https://openreview.net/forum?id=qae04YACHs&referrer=%5Bthe%20profile%20of%20Yuxin%20Li%5D(%2Fprofile%3Fid%3D~Yuxin_Li3)'
+excerpt: 'We introduce a Transformer-Modulated Diffusion Model (TMDM), uniting conditional diffusion generative process with transformers into a unified framework to enable precise distribution forecasting for MTS.'
+paperurl: '[link](https://openreview.net/pdf?id=qae04YACHs)'
 citation: 'Li, Y., Chen, W., Hu, X., Chen, B., & Zhou, M. (2023, October). Transformer-Modulated Diffusion Models for Probabilistic Multivariate Time Series Forecasting. In The Twelfth International Conference on Learning Representations.'
 ---
 
