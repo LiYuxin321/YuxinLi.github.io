@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Yuxin Li"
-title                    : "Your Name / Site Title"
+locale                   : "Shaanxi China"
+title                    : "Yuxin Li"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
