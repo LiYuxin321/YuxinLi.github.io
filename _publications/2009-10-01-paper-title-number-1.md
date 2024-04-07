@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Transformer-Modulated Diffusion Models for Probabilistic Multivariate Time Series Forecasting"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://openreview.net/forum?id=qae04YACHs&referrer=%5Bthe%20profile%20of%20Yuxin%20Li%5D(%2Fprofile%3Fid%3D~Yuxin_Li3)'
+citation: 'Li, Y., Chen, W., Hu, X., Chen, B., & Zhou, M. (2023, October). Transformer-Modulated Diffusion Models for Probabilistic Multivariate Time Series Forecasting. In The Twelfth International Conference on Learning Representations.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Transformers have gained widespread usage in multivariate time series (MTS) forecasting, delivering impressive performance. Nonetheless, these existing transformer-based methods often neglect an essential aspect: the incorporation of uncertainty into the predicted series, which holds significant value in decision- making. In this paper, we introduce a Transformer-Modulated Diffusion Model (TMDM), uniting conditional diffusion generative process with transformers into a unified framework to enable precise distribution forecasting for MTS. TMDM harnesses the power of transformers to extract essential insights from historical time series data. This information is then utilized as prior knowledge, capturing covariate-dependence in both the forward and reverse processes within the dif- fusion model. Furthermore, we seamlessly integrate well-designed transformer- based forecasting methods into TMDM to enhance its overall performance. Ad- ditionally, we introduce two novel metrics for evaluating uncertainty estimation performance. Through extensive experiments on six datasets using four evalua- tion metrics, we establish the effectiveness of TMDM in probabilistic MTS fore- casting.
