@@ -23,6 +23,11 @@ News
 Publications
 ------
 
+**Li, Y.**, Chen, W., Hu, X., Chen, B., & Zhou, M. (2023, October). Transformer-Modulated Diffusion Models for Probabilistic Multivariate Time Series Forecasting. In The Twelfth International Conference on Learning Representations.
+
+**Li, Y.**, Chen, W., Chen, B., Wang, D., Tian, L., & Zhou, M. (2023, July). Prototype-oriented unsupervised anomaly detection for multivariate time series. In International Conference on Machine Learning (pp. 19407-19424). PMLR.
+
+**Li, Y.**, He, K., Xu, D., & Luo, D. (2020). A transfer learning method using speech data as the source domain for micro-Doppler classification tasks. Knowledge-Based Systems, 209, 106449.
 
 Services
 ------
