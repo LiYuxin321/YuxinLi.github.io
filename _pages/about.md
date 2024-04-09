@@ -24,7 +24,7 @@ News
 Publications
 ------
 
-**Yuxin Li**, Wenchao Chen, Xinyue Hu, Bo Chen, baolin sun, Mingyuan Zhou, Transformer-Modulated Diffusion Models for Probabilistic Transformer-Modulated Diffusion Models for Probabilistic Multivariate Time Series Forecasting, to appear in International Conference on Learning Representations (ICLR), Vienna, Austria, May 2024.
+**Yuxin Li**,Wenchao Chen, Xinyue Hu, Bo Chen*, baolin sun, Mingyuan Zhou,Transformer-Modulated Diffusion Models for Probabilistic Multivariate Time Series Forecasting, to appear in International Conference on Learning Representations (ICLR), Vienna, Austria, May 2024.
 
 **Yuxin Li**, Wenchao Chen, Bo Chen, Dongsheng Wang, Long Tian and Mingyuan Zhou, Prototype-oriented Unsupervised Anomaly Detection for Multivariate Time Series, International Conference on Machine Learning (ICML), Hawaii, 2023.
 
