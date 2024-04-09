@@ -12,7 +12,7 @@ I am a Ph.D. student at Xidian University, supervised by Prof. [Bo Chen](https:/
 
 Research Interests
 ======
-* **Multidimensional time series analysis**:  Tackling anomaly detection, probability prediction, and other challenges associated with high-dimensional non-stationary time series data.
+* **Multivariate time series analysis**:  Tackling anomaly detection, probability prediction, and other challenges associated with high-dimensional non-stationary time series data.
 * **Image anomaly detection**: Addressing anomaly detection problems for images in industrial settings.
 * **Optimal transport theory**: Conditional transport, Embedding methods, Concept learning.
 * **Bayesian statistics**: Deep generative model, Variational inference, Knowledge representation.
