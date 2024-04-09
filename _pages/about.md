@@ -24,11 +24,12 @@ News
 Publications
 ------
 
-**Li, Y.**, Chen, W., Hu, X., Chen, B., & Zhou, M. (2023, October). Transformer-Modulated Diffusion Models for Probabilistic Multivariate Time Series Forecasting. In The Twelfth International Conference on Learning Representations.
+**Yuxin Li**, Wenchao Chen, Xinyue Hu, Bo Chen, baolin sun, Mingyuan Zhou, Transformer-Modulated Diffusion Models for Probabilistic Transformer-Modulated Diffusion Models for Probabilistic Multivariate Time Series Forecasting, to appear in International Conference on Learning Representations (ICLR), Vienna, Austria, May 2024.
 
-**Li, Y.**, Chen, W., Chen, B., Wang, D., Tian, L., & Zhou, M. (2023, July). Prototype-oriented unsupervised anomaly detection for multivariate time series. In International Conference on Machine Learning (pp. 19407-19424). PMLR.
+**Yuxin Li**, Wenchao Chen, Bo Chen, Dongsheng Wang, Long Tian and Mingyuan Zhou, Prototype-oriented Unsupervised Anomaly Detection for Multivariate Time Series, International Conference on Machine Learning (ICML), Hawaii, 2023.
 
-**Li, Y.**, He, K., Xu, D., & Luo, D. (2020). A transfer learning method using speech data as the source domain for micro-Doppler classification tasks. Knowledge-Based Systems, 209, 106449.
+**Yuxin Li**, Kunling He, Danlei Xu, Dingli Luo. A transfer learning method using speech data as the source domain for micro-Doppler classification tasks. Knowledge-Based Systems, 209, 106449.
+
 
 Services
 ------
