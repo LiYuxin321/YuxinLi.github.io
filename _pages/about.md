@@ -20,9 +20,12 @@ Research Interests
 News
 ======
 2024.01: TMDM is accepted by ICLR2024.
+2024.05: VPDM is accepted by ICML2024.
 
 Publications
 ------
+
+**Yuxin Li**, Yaoxuan Feng, Wenchao Chen, Yubiao Wang, Xinyue Hu, Baolin Sun, Chunhui Qu, Bo Chen*, and Mingyuan Zhou, Vague Prototype-Oriented Diffusion Model for Multi-Class Anomaly Detection, to appear in International Conference on Machine Learning (ICML), Vienna, Austria, July 2024.
 
 **Yuxin Li**,Wenchao Chen, Xinyue Hu, Bo Chen*, baolin sun, Mingyuan Zhou,Transformer-Modulated Diffusion Models for Probabilistic Multivariate Time Series Forecasting, to appear in International Conference on Learning Representations (ICLR), Vienna, Austria, May 2024.
 
