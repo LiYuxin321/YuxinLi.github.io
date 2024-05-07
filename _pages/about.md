@@ -39,7 +39,7 @@ Publications
 Services
 ------
 Conference Reviewers:
-ICML,CVPR.
+NeurIPS,ICML,CVPR.
 
 Journal Reviewers:
 TNNLS.
