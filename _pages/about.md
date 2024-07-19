@@ -19,6 +19,7 @@ Research Interests
 
 News
 ======
+2024.06: Be invited to join the Program Committee for AAAI 2025.
 
 2024.05: VPDM is accepted by ICML2024.
 
@@ -38,8 +39,11 @@ Publications
 
 Services
 ------
+Conference Program Committee:
+AAAI.
+
 Conference Reviewers:
-NeurIPS,ICML,CVPR.
+NeurIPS,ICML,CVPR,AAAI.
 
 Journal Reviewers:
 TNNLS.
