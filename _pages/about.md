@@ -19,6 +19,8 @@ Research Interests
 
 News
 ======
+2024.12: AOT was published in TAES.
+
 2024.06: Be invited to join the Program Committee for AAAI 2025.
 
 2024.05: VPDM is accepted by ICML2024.
@@ -27,6 +29,7 @@ News
 
 Publications
 ------
+**Yuxin Li**, Wenchao Chen , Xinyue Hu , Bo Chen* , Dongsheng Wang , Chunhui Qu, Fei Meng, Penghui Wang, and Hongwei Liu, AOT: Aggregation Optimal Transport for Few-Shot SAR Automatic Target Recognition, to appear in IEEE Transactions on Aerospace and Electronic Systems, 2024. 
 
 **Yuxin Li**, Yaoxuan Feng, Wenchao Chen, Yubiao Wang, Xinyue Hu, Baolin Sun, Chunhui Qu, Bo Chen*, and Mingyuan Zhou, Vague Prototype-Oriented Diffusion Model for Multi-Class Anomaly Detection, to appear in International Conference on Machine Learning (ICML), Vienna, Austria, July 2024.
 
