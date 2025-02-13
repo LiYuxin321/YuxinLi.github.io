@@ -46,7 +46,7 @@ Conference Program Committee:
 AAAI.
 
 Conference Reviewers:
-NeurIPS,ICML,ICLR,CVPR,ICCV,AAAI,AISTATS.
+NeurIPS, ICML, ICLR, CVPR, ICCV, AAAI, AISTATS.
 
 Journal Reviewers:
 TNNLS.
