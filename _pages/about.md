@@ -29,6 +29,8 @@ News
 
 Publications
 ------
+Yaoxuan Feng, Wenchao Chen, **Yuxin Li**, Bo Chen, Yubiao Wang, Zixuan Zhao, Hongwei Liu, Mingyuan Zhou, OmiAD: One-Step Adaptive Masked Diffusion Model for Multi-class Anomaly Detection via Adversarial Distillation, to appear in International Conference on Machine Learning (ICML), Vancouver, Canada, July 2025.
+
 **Yuxin Li**, Wenchao Chen , Xinyue Hu , Bo Chen* , Dongsheng Wang , Chunhui Qu, Fei Meng, Penghui Wang, and Hongwei Liu, AOT: Aggregation Optimal Transport for Few-Shot SAR Automatic Target Recognition, to appear in IEEE Transactions on Aerospace and Electronic Systems, 2024. 
 
 **Yuxin Li**, Yaoxuan Feng, Wenchao Chen, Yubiao Wang, Xinyue Hu, Baolin Sun, Chunhui Qu, Bo Chen*, and Mingyuan Zhou, Vague Prototype-Oriented Diffusion Model for Multi-Class Anomaly Detection, to appear in International Conference on Machine Learning (ICML), Vienna, Austria, July 2024.
