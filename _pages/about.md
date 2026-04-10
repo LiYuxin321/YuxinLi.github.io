@@ -29,6 +29,8 @@ News
 
 Publications
 ------
+Xinyue Hu, Zhibin Duan, Xinyang Liu, **Yuxin Li**, Bo Chen, Chaojie Wang, Yilin He, Hongwei Liu, Xuefei Cao, and Mingyuan Zhou, Disentangled Generative Graph Representation Learning, to appear in IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2026.
+
 Yaoxuan Feng, Wenchao Chen, **Yuxin Li**, Bo Chen, Yubiao Wang, Zixuan Zhao, Hongwei Liu, Mingyuan Zhou, OmiAD: One-Step Adaptive Masked Diffusion Model for Multi-class Anomaly Detection via Adversarial Distillation, to appear in International Conference on Machine Learning (ICML), Vancouver, Canada, July 2025.
 
 **Yuxin Li**, Wenchao Chen , Xinyue Hu , Bo Chen* , Dongsheng Wang , Chunhui Qu, Fei Meng, Penghui Wang, and Hongwei Liu, AOT: Aggregation Optimal Transport for Few-Shot SAR Automatic Target Recognition, to appear in IEEE Transactions on Aerospace and Electronic Systems, 2024. 
