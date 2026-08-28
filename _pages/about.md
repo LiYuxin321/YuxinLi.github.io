@@ -29,6 +29,8 @@ News
 
 Publications
 ------
+Ao Wang, **Yuxin Li**, Wenchao Chen, Lixing Shi, Yaoxuan Feng, Penghui Wang, Jing Zhang, Han Ning, Bo Chen and Hongwei Liu,Selective Structural Completion Diffusion Model for HRRP Open-Set Recognition, to appear in IEEE Transactions on Aerospace and Electronic Systems(TAES), 2026.
+
 Xinyue Hu, Zhibin Duan, Xinyang Liu, **Yuxin Li**, Bo Chen, Chaojie Wang, Yilin He, Hongwei Liu, Xuefei Cao, and Mingyuan Zhou, Disentangled Generative Graph Representation Learning, to appear in IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2026.
 
 Yaoxuan Feng, Wenchao Chen, **Yuxin Li**, Bo Chen, Yubiao Wang, Zixuan Zhao, Hongwei Liu, Mingyuan Zhou, OmiAD: One-Step Adaptive Masked Diffusion Model for Multi-class Anomaly Detection via Adversarial Distillation, to appear in International Conference on Machine Learning (ICML), Vancouver, Canada, July 2025.
