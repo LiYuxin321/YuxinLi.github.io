@@ -19,6 +19,8 @@ Research Interests
 
 News
 ======
+2026.9: D^3M was published in TSP.
+
 2024.12: AOT was published in TAES.
 
 2024.06: Be invited to join the Program Committee for AAAI 2025.
