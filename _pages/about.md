@@ -48,6 +48,9 @@ Yaoxuan Feng, Wenchao Chen, **Yuxin Li**, Bo Chen, Yubiao Wang, Zixuan Zhao, Hon
 
 Services
 ------
+Conference Area Chairs:
+ICLR.
+
 Conference Program Committee:
 AAAI.
 
