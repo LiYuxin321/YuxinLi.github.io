@@ -19,7 +19,7 @@ Research Interests
 
 News
 ======
-2026.9: D^3M was published in TSP.
+2026.9: D3M was published in TSP.
 
 2024.12: AOT was published in TAES.
 
