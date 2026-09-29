@@ -19,6 +19,8 @@ Research Interests
 
 News
 ======
+2026.9: Invited to serve as Area Chair ICLR 2027.
+
 2026.9: D3M was published in TSP.
 
 2024.12: AOT was published in TAES.
@@ -31,6 +33,8 @@ News
 
 Publications
 ------
+**Yuxin Li**, Ao Wang, Xinyue Hu, Bo Chen, Wenchao Chen, Penghui Wang, Hongwei Liu and Mingyuan Zhou, Dynamic Decomposition Diffusion Model for Probabilistic Multivariate Time Series Forecasting, to appear in IEEE Transactions on Signal Processing, 2026
+
 Ao Wang, **Yuxin Li**, Wenchao Chen, Lixing Shi, Yaoxuan Feng, Penghui Wang, Jing Zhang, Han Ning, Bo Chen and Hongwei Liu,Selective Structural Completion Diffusion Model for HRRP Open-Set Recognition, to appear in IEEE Transactions on Aerospace and Electronic Systems(TAES), 2026.
 
 Xinyue Hu, Zhibin Duan, Xinyang Liu, **Yuxin Li**, Bo Chen, Chaojie Wang, Yilin He, Hongwei Liu, Xuefei Cao, and Mingyuan Zhou, Disentangled Generative Graph Representation Learning, to appear in IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2026.
